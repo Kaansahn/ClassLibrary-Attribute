@@ -1,0 +1,11 @@
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/bin/Debug/net8.0/DefinexAttribute.deps.json
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/bin/Debug/net8.0/DefinexAttribute.dll
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/bin/Debug/net8.0/DefinexAttribute.pdb
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/DefinexAttribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/DefinexAttribute.AssemblyInfoInputs.cache
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/DefinexAttribute.AssemblyInfo.cs
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/DefinexAttribute.csproj.CoreCompileInputs.cache
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/DefinexAttribute.dll
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/refint/DefinexAttribute.dll
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/DefinexAttribute.pdb
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/ref/DefinexAttribute.dll
