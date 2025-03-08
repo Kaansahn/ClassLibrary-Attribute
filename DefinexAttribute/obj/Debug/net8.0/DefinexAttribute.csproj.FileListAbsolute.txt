@@ -9,3 +9,4 @@
 /Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/refint/DefinexAttribute.dll
 /Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/DefinexAttribute.pdb
 /Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/ref/DefinexAttribute.dll
+/Users/kaansahin/DesktopExtras/Projects/DefinexBootcamp/definex/homeworks/ClassLibrary-Attribute/DefinexAttribute/obj/Debug/net8.0/DefinexAttribute.sourcelink.json
